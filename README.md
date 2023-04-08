@@ -1,12 +1,12 @@
 <span align="center">
 
-##  *Bem-vindos ao repositório: Big Data e Mineracao de Dados Avancado*
+##  *Bem-vindos ao repositório: Big Data e Mineracao de Dados Avançaado*
 
 </span>
 
 <span align="justify">
 
-##  Para analisar o Big Data, em diversas situações, é interessante utilizar técnicas de Mineração de Dados. Tais técnicas permitem a descoberta de informações úteis e não evidentes em bancos de dados.
+##  Para analisar um Big Data, em diversas situações, é necessário utilizar técnicas de Mineração de Dados. Pois, as técnicas permitem a descoberta de informações úteis e não evidentes em bancos de dados.
 
 
 </span>
