@@ -12,5 +12,5 @@
 </span>
 
 <div align="center">
-<img src="https://mcdn.wallpapersafari.com/medium/0/36/KcVZjJ.jpg" width="1050px" />
+<img src="https://blog.ead.unipar.br/wp-content/uploads/2021/04/bigdata.jpg" width="1050px" />
 </div>
